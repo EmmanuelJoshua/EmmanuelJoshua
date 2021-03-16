@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelJoshua&show_icons=true&theme=tokyonight&line_height=33))  
+
+![Profile views](https://gpvc.arturio.dev/EmmanuelJoshua)  
