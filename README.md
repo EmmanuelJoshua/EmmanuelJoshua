@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Emmanuel Joshua![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-Junior Mobile Developer ✨
+Mobile Developer ✨
 
 <hr>
 
